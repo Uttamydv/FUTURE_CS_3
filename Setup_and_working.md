@@ -35,6 +35,10 @@
 - Any user with access to the server can upload or download files.
 - For production, implement user authentication, session handling, and access restrictions based on roles.
 
+<img width="1033" height="932" alt="Screenshot From 2025-06-20 02-11-41" src="https://github.com/user-attachments/assets/b095ce11-ee1e-446c-8ada-02a98912511c" />
+
+<img width="1031" height="426" alt="Screenshot From 2025-06-20 02-22-17" src="https://github.com/user-attachments/assets/3cd5e21a-3ce1-41aa-bd9b-47908ab2768c" />
+
 ---
 
 ## 5. Limitations & To-Do
